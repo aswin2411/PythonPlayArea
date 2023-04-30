@@ -58,3 +58,8 @@ Rules for Python Identifiers
     Underscore ( _ )
     or combination of all. 
 Below are some of the examples. 
+2. Identifiers shouldn't start with number 
+3. Identifiers shouldn't have any special symbols ~!@#$%^&*(). Only underscores are allowed.
+4. Identifiers are case sensitive. name and NAME are different. 
+5. We shouldn't use Python Keywords are identifiers. What are python keywords and how to identify them. Refer 4_find_python_keywords.py in the above repository.
+
