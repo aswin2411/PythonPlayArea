@@ -41,9 +41,9 @@ print(name[:])              # Micheal Jackson
 # JUMPING VALUE
 
 name = 'Micheal Jackson'
-print(name[0:14:2])  # McaUcs
-print(name[:14:3])  # Mhlas
-print(name[::-1])  # nosakcal leahciM
+print(name[0:14:2])          # McaUcs
+print(name[:14:3])           # Mhlas
+print(name[::-1])            # nosakcal leahciM
 
 
 # STRING FUNCTIONS/MEHTODS
